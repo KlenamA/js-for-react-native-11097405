@@ -1,7 +1,7 @@
-# js-for-react-native-1129884
+# js-for-react-native-11097405
 
 
-STUDENT ID : 1129884
+STUDENT ID : 11097405
 
 Task 1: arrayManipulation.js
 - Within this file, there are two functions. The initial function, named "processArray," which processes an array of numbers by squaring even numbers and tripling odd numbers, producing a new array.
